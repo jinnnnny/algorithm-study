@@ -99,7 +99,6 @@ print(total)
 #빠른 A+B
 """
 import sys
-from termios import B50
 
 N = int(input())
 
