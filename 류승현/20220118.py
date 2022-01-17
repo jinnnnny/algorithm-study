@@ -65,7 +65,7 @@ while True:
     print(A+B)
 """
 
-# A+B - 4 참고 - (https://velog.io/@kimjhq1/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5%EC%9D%B4-%EB%81%9D%EB%82%A0%EB%95%8C%EA%B9%8C%EC%A7%80-%EB%B0%9B%EB%8A%94-%EA%B2%BD%EC%9A%B0End-Of-File-EOFerror)
+# A+B - 4 참고(https://velog.io/@kimjhq1/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5%EC%9D%B4-%EB%81%9D%EB%82%A0%EB%95%8C%EA%B9%8C%EC%A7%80-%EB%B0%9B%EB%8A%94-%EA%B2%BD%EC%9A%B0End-Of-File-EOFerror)
 """
 import sys
 

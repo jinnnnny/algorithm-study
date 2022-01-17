@@ -1,6 +1,5 @@
-
 # 두 수 비교하기
-
+"""
 a, b = map(int,input().split())
 
 if a > b:
@@ -9,10 +8,10 @@ elif a < b:
     print("<")
 else :
     print("==")
-
+"""
 
 # 시험 성적
-
+"""
 a = int(input())
 
 if 90 <= a and a <=100 :
@@ -25,7 +24,7 @@ elif 60 <= a :
     print('D')
 else :
     print('F')
-
+"""
 
 # 윤년
 """
@@ -99,7 +98,6 @@ print(total)
 #빠른 A+B
 """
 import sys
-from termios import B50
 
 N = int(input())
 
