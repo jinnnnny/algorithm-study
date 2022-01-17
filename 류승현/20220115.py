@@ -13,7 +13,7 @@ else :
 # 시험 성적
 """
 a = int(input())
-
+"""
 if 90 <= a and a <=100 :
     print('A')
 elif 80 <= a :
